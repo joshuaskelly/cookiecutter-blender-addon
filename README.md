@@ -18,4 +18,4 @@ Then:
 - Add custom functionality to `operators.py` or `panels.py`.
 - Add any dependencies to the `requirements.txt` [Requirements file](https://pip.pypa.io/en/stable/user_guide/#requirements-files).
 - Package addon with $ `python package.py`
-- Ship it!
+- Installable addon zip file will be in the `dist` folder.
