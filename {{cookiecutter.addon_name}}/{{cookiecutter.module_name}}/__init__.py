@@ -19,7 +19,7 @@ if 'reload' in locals():
     il.reload(reload)
     reload.all()
 
-import io_scene_map.reload as reload
+import {{cookiecutter.module_name}}.reload as reload
 
 
 def register():
