@@ -2,6 +2,7 @@
 An opinionated cookiecutter template for a Blender addon.
 
 ## Features
+- Project is structured as a Python package.
 - Easy inclusion of third party dependencies.
 - Single command packaging.
 
