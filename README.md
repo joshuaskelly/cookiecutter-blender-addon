@@ -16,6 +16,6 @@ Generate a Blender addon project:
 
 Then:
 - Add custom functionality to `operators.py` or `panels.py`.
-- Add any dependencies to `requirements.txt`
+- Add any dependencies to the `requirements.txt` [Requirements file](https://pip.pypa.io/en/stable/user_guide/#requirements-files).
 - Package addon with `python package.py`
 - Ship it!
