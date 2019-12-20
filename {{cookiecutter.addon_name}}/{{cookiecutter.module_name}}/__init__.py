@@ -26,16 +26,16 @@ def register():
     from . import patch
     patch.add_local_modules_to_path()
 
-    from {{cookiecutter.module}} import operators
-    from {{cookiecutter.module}} import panels
+    from {{cookiecutter.module_name}} import operators
+    from {{cookiecutter.module_name}} import panels
 
     operators.register()
     panels.register()
 
 
 def unregister():
-    from {{cookiecutter.module}} import operators
-    from {{cookiecutter.module}} import panels
+    from {{cookiecutter.module_name}} import operators
+    from {{cookiecutter.module_name}} import panels
 
     operators.unregister()
     panels.unregister()
