@@ -1,0 +1,33 @@
+{
+    "addon_name": "temp",
+    "module_name": "{{ cookiecutter.addon_name|lower|replace('-', '_') }}",
+    "version": "1.0.0",
+    "blender_version": "2.80.0",
+    "description": "",
+    "author": "",
+    "category": [
+        "3D View",
+        "Add Mesh",
+        "Add Curve",
+        "Animation",
+        "Compositing",
+        "Development",
+        "Game Engine",
+        "Import-Export",
+        "Lighting",
+        "Material",
+        "Mesh",
+        "Node",
+        "Object",
+        "Paint",
+        "Physics",
+        "Render",
+        "Rigging",
+        "Scene",
+        "Sequencer",
+        "System",
+        "Text Editor",
+        "UV",
+        "User Interface"
+    ]
+}
