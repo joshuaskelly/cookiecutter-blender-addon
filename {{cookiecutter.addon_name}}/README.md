@@ -1,6 +1,6 @@
 # {{cookiecutter.addon_name}}
 
-[![Blender {{cookiecutter.blender_version}}](https://img.shields.io/badge/blender-2.8-%23f4792b.svg)]() [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)]()
+[![Blender {{cookiecutter.blender_version}}](https://img.shields.io/badge/blender-{{cookiecutter.blender_version}}-%23f4792b.svg)]() [![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)]()
 
 {{cookiecutter.description}}
 
