@@ -1,5 +1,5 @@
 # Cookiecutter Blender Addon
-An opinionated cookiecutter template for a Blender addon.
+An opinionated cookiecutter template for creating a Blender addon.
 
 ## Features
 - Project is structured as a Python package.
