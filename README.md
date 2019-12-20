@@ -1,7 +1,7 @@
 # [![cookiecutter-blender-addon](https://raw.githubusercontent.com/joshuaskelly/cookiecutter-blender-addon/master/.media/logo.svg?sanitize=true)](https://github.com/JoshuaSkelly/cookiecutter-blender-addon)
 
 # Cookiecutter Blender Addon
-An opinionated cookiecutter template for creating a Blender addon.
+A sweet and opinionated cookiecutter template for creating a Blender addon.
 
 ## Features
 - Project is structured as a Python package.
