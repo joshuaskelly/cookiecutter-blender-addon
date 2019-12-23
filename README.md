@@ -2,7 +2,7 @@
 
 # Cookiecutter Blender Addon
 
-[![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg)](https://discord.gg/KvwmdXA)
+[![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)]() [![Discord](https://img.shields.io/badge/discord-chat-7289DA.svg)](https://discord.gg/KvwmdXA)
 
 A sweet and opinionated cookiecutter template for creating a Blender addon.
 
