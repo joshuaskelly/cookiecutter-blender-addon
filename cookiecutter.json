@@ -2,7 +2,7 @@
     "addon_name": "temp",
     "module_name": "{{ cookiecutter.addon_name|lower|replace('-', '_') }}",
     "version": "1.0.0",
-    "blender_version": "2.80.0",
+    "blender_version": "2.93.0",
     "description": "",
     "author": "",
     "category": [
